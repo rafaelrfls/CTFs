@@ -16,10 +16,28 @@
 
 ---
 
-🔹Decifro a Hash usando o site crackstation.net:
+🔹Decifro a Hash usando o site crackstation.net, que me da o resultado: avengers
 
 <img width="900" height="900" alt="Senha" src="https://github.com/user-attachments/assets/47cac711-bc97-4b35-b7d2-7961554a18b0" />
 
 ---
 
-🔹
+🔹Em seguida aparece um arquivo no pacote 286, copio o hexdump e uso o CyberChef para reconstruir o arquivo:
+
+<img width="738" height="160" alt="Arquivo" src="https://github.com/user-attachments/assets/19b5c18e-f9fb-4351-903b-afce465f4aba" />
+
+
+<img width="1919" height="616" alt="CyberChef" src="https://github.com/user-attachments/assets/33b0517b-0e31-4278-af1b-e6ad8fb9c605" />
+
+---
+
+🔹 Após baixar o arquivo .zip, ele pede uma senha. Uso a senha avengers fornecida anteriormente e consigo descompactar:
+
+<img width="487" height="370" alt="Senha arquivo" src="https://github.com/user-attachments/assets/0fc513ed-1a3c-42f7-8c7b-74c86003d684" />
+
+---
+
+🔹 Dentro tem um QRcode, abro usando um leitor online e finalmente trazer a Flag:
+
+<img width="1404" height="629" alt="Flag" src="https://github.com/user-attachments/assets/3512caf7-5e83-42df-9611-7721208f92e9" />
+
