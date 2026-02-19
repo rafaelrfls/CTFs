@@ -7,7 +7,7 @@
 
 ---
 
-**Para encontrar a Flag, precisei analisar um PCAP file para descobrir o que um invasor acessou e roubou de um servidor NFS.**
+**Para encontrar a Flag, precisei analisar um PCAP file e descobrir o que um invasor acessou e roubou de um servidor NFS.**
 
 
 🔹Utilizando o Wireshark, segui o TCP Stream, que logo mostra uma Hash MD5:
