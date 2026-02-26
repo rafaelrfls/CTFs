@@ -1,2 +1,2 @@
-# CTFs Blue Team
+# CTFs Blue Team e Red Team
  
