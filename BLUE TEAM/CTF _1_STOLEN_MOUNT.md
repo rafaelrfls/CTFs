@@ -38,7 +38,7 @@
 
 ---
 
-🔹 Dentro tem um QRcode, abro usando um leitor online e finalmente trazer a Flag:
+🔹 Dentro tem um QRcode, abro usando um leitor online e por fim, recebo a Flag:
 
 <img width="1404" height="629" alt="Flag" src="https://github.com/user-attachments/assets/3512caf7-5e83-42df-9611-7721208f92e9" />
 
