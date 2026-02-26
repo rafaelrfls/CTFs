@@ -1,7 +1,8 @@
 # Capture The Flag 1
 ## Stolen Mount - TryHackMe
 
-**Post LinkedIn:** https://www.linkedin.com/feed/update/urn:li:activity:7405346714842460160/
+**Post LinkedIn:** <a href="https://www.linkedin.com/posts/rafael-salvalagio-ghensev-49671285_tryhackme-ctf-capturetheflag-activity-7405346714842460160--2Ig?utm_source=share&utm_medium=member_desktop&rcm=ACoAABIUxTIB-gWzPMQPErZHskqDXatNOleOjok" rel="noopener noreferrer"> Link</a>
+
 
 <img width="586" height="267" alt="StolenMount" src="https://github.com/user-attachments/assets/4465dfdb-1b9c-4706-98a2-29cf40ab1794" />
 
