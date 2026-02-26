@@ -1,1 +1,2 @@
-# CTFs
+# CTFs Blue Team
+ 
