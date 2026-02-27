@@ -2,5 +2,5 @@
 
 ---
 
-- [`CTF _1_STOLEN_MOUNT.md`](CTF _1_STOLEN_MOUNT.md) - **STOLEN MOUNT - TryHackMe**
+- [`BLUE TEAM/CTF _1_STOLEN_MOUNT.md`](BLUE TEAM/CTF _1_STOLEN_MOUNT.md) - **STOLEN MOUNT - TryHackMe**
  
