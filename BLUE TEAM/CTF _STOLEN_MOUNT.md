@@ -1,4 +1,4 @@
-# Capture The Flag 1
+# Capture The Flag
 ## Stolen Mount - TryHackMe
 
 **Post LinkedIn:** <a href="https://www.linkedin.com/posts/rafael-salvalagio-ghensev-49671285_tryhackme-ctf-capturetheflag-activity-7405346714842460160--2Ig?utm_source=share&utm_medium=member_desktop&rcm=ACoAABIUxTIB-gWzPMQPErZHskqDXatNOleOjok" rel="noopener noreferrer"> Link</a>
