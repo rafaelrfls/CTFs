@@ -38,3 +38,5 @@ R: 00:16:cb:92:6e:dc
 Mesmo IP que estabeleceu conexão:
 
 R: 10.42.42.50
+
+<img width="537" height="304" alt="windows" src="https://github.com/user-attachments/assets/fcf17154-c799-4f95-a496-cec8d7dda781" />
