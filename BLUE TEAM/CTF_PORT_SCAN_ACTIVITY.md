@@ -35,6 +35,6 @@ R: 00:16:cb:92:6e:dc
 
 🔹What is the IP address of the detected Windows system?
 
-Mesmo que estabeleceu conexão:
+Mesmo IP que estabeleceu conexão:
 
 R: 10.42.42.50
