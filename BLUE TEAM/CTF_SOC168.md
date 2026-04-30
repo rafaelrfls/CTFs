@@ -36,3 +36,47 @@ Comando que gerou o alerta: whoami
 Source IP deu como malicioso no VirusTotal:
 
 <img width="875" height="209" alt="virustotal" src="https://github.com/user-attachments/assets/62384331-3cac-4236-8ad3-f95699cdaed2" />
+
+---
+
+**Perguntas para fechar o alerta:**
+
+🔹Is the Traffic Malicious?
+
+R: Sim, IP malicioso de fora da rede fazendo requisições, adulterando o parâmetro do POST e injetando comandos do sistema operacional como whoami, ls e pwd. 
+
+---
+
+🔹What is the Attack Type?
+
+R: Command Injection
+
+---
+
+🔹Check if it is a Planned Test.
+
+R: Not Planned - Nada foi encontrado nos Emails em relação aos IPs ou servidor.
+
+---
+
+🔹What is the Direction of the Traffic?
+
+R: Internet to Company Network
+
+---
+
+🔹Check Whether the Attack Was Successful?
+
+R: Yes - Todos os comando executado tiveram HTTP Response Status 200
+
+---
+
+🔹Foi realizado a contenção do Host:
+
+<img width="517" height="206" alt="containment" src="https://github.com/user-attachments/assets/2a552237-1aa4-41ed-b5eb-ec548cb5c5ea" />
+
+---
+
+🔹Do You Need Tier2 Escalation??
+
+R: Yes - Como o ataque foi bem sucedido, precisa ser escalado para correção/patch.
