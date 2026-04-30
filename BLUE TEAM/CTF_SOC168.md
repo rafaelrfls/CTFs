@@ -69,7 +69,7 @@ R: Internet para Company Network
 
 🔹Check Whether the Attack Was Successful?
 
-R: Yes - Todos os comandos executados tiveram HTTP Response Status 200
+R: Sim - Todos os comandos executados tiveram HTTP Response Status 200
 
 ---
 
