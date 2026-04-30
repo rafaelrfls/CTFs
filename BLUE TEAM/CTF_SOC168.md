@@ -1,7 +1,7 @@
 # Capture The Flag
 ## SOC168 — Whoami Command Detected - LetsDefend
 
-**Post LinkedIn:** <a href="" rel="noopener noreferrer"> Link</a>
+**Post LinkedIn:** <a href="https://www.linkedin.com/posts/rafael-salvalagio-ghensev-49671285_alerta-comandowhoamidetectado-fechei-share-7455726148765835264-MhHN?utm_source=share&utm_medium=member_desktop&rcm=ACoAABIUxTIB-gWzPMQPErZHskqDXatNOleOjok" rel="noopener noreferrer"> Link</a>
 
 <img width="400" height="400" alt="capa" src="https://github.com/user-attachments/assets/87047b8e-a8d7-47f2-83cc-d83fb88a224f" />
 
