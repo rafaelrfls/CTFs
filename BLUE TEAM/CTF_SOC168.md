@@ -24,6 +24,8 @@ Informações que tenho:
 
 🔹HTTP Request Method: POST
 
+🔹Alert Trigger Reason: Request Body Contains whoami string
+
 Com essas informações verifico o Log Management e filtro pelo Destination Adress para ver os comandos que foram executados.
 
 Comando que gerou o alerta: whoami
