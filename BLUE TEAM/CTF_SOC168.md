@@ -3,7 +3,7 @@
 
 **Post LinkedIn:** <a href="" rel="noopener noreferrer"> Link</a>
 
-<img width="500" height="500" alt="capa" src="https://github.com/user-attachments/assets/87047b8e-a8d7-47f2-83cc-d83fb88a224f" />
+<img width="400" height="400" alt="capa" src="https://github.com/user-attachments/assets/87047b8e-a8d7-47f2-83cc-d83fb88a224f" />
 
 
 ---
