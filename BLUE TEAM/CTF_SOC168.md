@@ -63,13 +63,13 @@ R: Not Planned - Nada foi encontrado nos Emails em relação aos IPs ou servidor
 
 🔹What is the Direction of the Traffic?
 
-R: Internet to Company Network
+R: Internet para Company Network
 
 ---
 
 🔹Check Whether the Attack Was Successful?
 
-R: Yes - Todos os comando executado tiveram HTTP Response Status 200
+R: Yes - Todos os comandos executados tiveram HTTP Response Status 200
 
 ---
 
@@ -81,4 +81,4 @@ R: Yes - Todos os comando executado tiveram HTTP Response Status 200
 
 🔹Do You Need Tier2 Escalation??
 
-R: Yes - Como o ataque foi bem sucedido, precisa ser escalado para correção/patch.
+R: Sim - Como o ataque foi bem sucedido, precisa ser escalado para correção/patch.
